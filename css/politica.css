@@ -1,0 +1,32 @@
+.navegacao {
+    float: right;
+    margin-top: -60px;
+
+}
+.titulos{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+.paragrafo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+body{
+    background-image: linear-gradient(to right, #f8d2d2, #b1d6ff);
+    }
+.ref{
+        text-decoration: none;
+    }
+    header{
+        font-family: 'Courier New', Courier, monospace;
+        border-radius: 5px;
+        margin-top: 15px;
+        margin-left: 10px;
+        background-image: linear-gradient(to right, #f8d2d2, #b1d6ff);
+    }
+    .rodape{    
+        color: #0049cf;
+        font-size: 17px;
+        text-align: center;
+        padding: 20px;  
+    }

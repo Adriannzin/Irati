@@ -1,0 +1,72 @@
+header{
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 10px;
+    background-image: linear-gradient(to right, #f8d2d2, #b1d6ff);
+}
+.navegacao {
+    float: right;
+    margin-top: -60px;
+}
+.texto {
+    margin-left: 60px;
+    margin-top: -40px;
+    font-family: serif;
+     
+}
+.texto2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 18px;
+}
+
+.historia{ 
+    float: right;
+    margin: 15px 5px 25px 15px; 
+    background-image: linear-gradient(to right, #ffffff, #f8d2d2);
+    text-align: justify;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 10px 10px 10px #f7c0c0;
+   
+}
+.Política{ 
+    float: right;
+    margin: 15px 15px 25px 20px; 
+    background-image: linear-gradient(to right, #f7c7c7, #b1d6ff);
+    text-align: justify;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 10px 10px 10px #a5c4fd;
+    width: 60%;
+    
+}
+.Pontos{ 
+    float: right;
+    margin: 15px 5px 25px 15px; 
+    background-image: linear-gradient(to right, #ffffff, #a5c4fd);
+    text-align: justify;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 10px 10px 10px #a5c4fd;
+}
+.principal{
+    display: flex;
+    flex-direction: row;
+    
+}
+.rodape{    
+    color: #0049cf;
+    font-size: 17px;
+    text-align: center;
+    padding: 20px;  
+}
+body{
+background-image: linear-gradient(to right, #f8d2d2, #b1d6ff);
+}
+@media screen and (max-width:700px){
+     min-width: none;
+}
+.ref{
+    text-decoration: none;
+}
